@@ -3,5 +3,4 @@ document.getElementById("myHead").innerHTML =
 	+ "<span id='headerSubtext' style = 'font-size: 13px;'><p>Asst. Professor, PhD.</br>Necmettin Erbakan University</br>Seydisehir Ahmet Cengiz Faculty of Engineering</br>Department of Computer Engineering</br>Head of Computer Hardware Department</p></span>";
 
 document.getElementById("myFooter").innerHTML =
-	"<p id='copyright'>Copyright &copy; " + new Date().getFullYear() + " Hasan Serdar. All"
-	+ " rights reserved.</p>"
+	"<p id='copyright'>Copyright &copy; " + new Date().getFullYear() + " <a href='https://www.hasanserdar.eu.org'>Hasan Serdar</a>. All rights reserved.</p>"
