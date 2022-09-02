@@ -55,3 +55,11 @@ flex-direction: column;
   transform: rotateY(15deg);
   box-shadow: -15px 0 15px #00a8ff;
 }
+
+.footer {
+position: fixed;
+}
+</style>
+<div class="footer">
+<p>Footer</p>
+</div>
